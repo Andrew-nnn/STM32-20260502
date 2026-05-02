@@ -1,0 +1,15 @@
+My Project_20251007  新建模板，实现LED闪烁。
+
+My Project_20251008
+在“My Project_20251007”工程基础上实现以下功能：
+1. PA7控制LED为亮
+2. PB1控制LED状态反转两次，间隔0.2秒
+3. PB11控制LED为灭
+
+My Project_20260323  新建工程模板，配置时钟
+My Project_20260402  增加LED闪烁程序。
+My Project_20260403  按键控制LED亮灭（消抖效果不好）。
+My Project_20260407  定时器扫描按键输入消抖
+My Project_20260415  定时器中断翻转LED
+My Project_20260501  简化工程模板
+My Project_20260501-01  定时器中断读取按键状态，控制LED亮灭。  
